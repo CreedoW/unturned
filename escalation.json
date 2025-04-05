@@ -1,0 +1,6006 @@
+{
+	"table": "ItemShop",
+	"rows":
+	[
+		{
+			"Id": 296,
+			"ItemName": "16x Scope",
+			"Selling": 5000.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51000,
+			"ItemName": "3D Printer",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51006,
+			"ItemName": "White Filament Spool",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51007,
+			"ItemName": "Red Filament Spool",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51008,
+			"ItemName": "Orange Filament Spool",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51009,
+			"ItemName": "Green Filament Spool",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51010,
+			"ItemName": "Blue Filament Spool",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51011,
+			"ItemName": "Stack of White Filament",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51012,
+			"ItemName": "Stack of Red Filament",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51013,
+			"ItemName": "Stack of Orange Filament",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51014,
+			"ItemName": "Stack of Green Filament",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51015,
+			"ItemName": "Stack of Blue Filament",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51016,
+			"ItemName": "Toolbox",
+			"Selling": 2500.00,
+			"Buying": 1250.00
+		},
+		{
+			"Id": 51017,
+			"ItemName": "Metal Scraps",
+			"Selling": 30.00,
+			"Buying": 15.00
+		},
+		{
+			"Id": 51018,
+			"ItemName": "Metal Ingot",
+			"Selling": 150.00,
+			"Buying": 75.00
+		},
+		{
+			"Id": 51019,
+			"ItemName": "Stack of Metal Ingots",
+			"Selling": 900.00,
+			"Buying": 450.00
+		},
+		{
+			"Id": 51020,
+			"ItemName": "Fabric Scraps",
+			"Selling": 30.00,
+			"Buying": 15.00
+		},
+		{
+			"Id": 51021,
+			"ItemName": "Fabric",
+			"Selling": 120.00,
+			"Buying": 60.00
+		},
+		{
+			"Id": 51022,
+			"ItemName": "Stack of Fabric",
+			"Selling": 720.00,
+			"Buying": 360.00
+		},
+		{
+			"Id": 51023,
+			"ItemName": "Wood Log",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51024,
+			"ItemName": "Stack of Logs",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51025,
+			"ItemName": "Complex Building Manual",
+			"Selling": 250.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51028,
+			"ItemName": "Plastic Scrap",
+			"Selling": 30.00,
+			"Buying": 15.00
+		},
+		{
+			"Id": 51029,
+			"ItemName": "Electronic Components",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51030,
+			"ItemName": "Circuitboard",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51032,
+			"ItemName": "Hollow Point Pistol Magazine",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51033,
+			"ItemName": "Metal Springs",
+			"Selling": 30.00,
+			"Buying": 15.00
+		},
+		{
+			"Id": 51034,
+			"ItemName": "Manual Gun Parts",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51035,
+			"ItemName": "Semi-Automatic Gun Parts",
+			"Selling": 250.00,
+			"Buying": 125.00
+		},
+		{
+			"Id": 51036,
+			"ItemName": "Automatic Gun Parts",
+			"Selling": 500.00,
+			"Buying": 250.00
+		},
+		{
+			"Id": 51038,
+			"ItemName": "HMG Components ",
+			"Selling": 0.00,
+			"Buying": 1000.00
+		},
+		{
+			"Id": 51039,
+			"ItemName": "Pistol Magazine",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51040,
+			"ItemName": "Revolver Speedloader",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51041,
+			"ItemName": "Assault Rifle Magazine",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51042,
+			"ItemName": "Armor Piercing Rifle Clip",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51043,
+			"ItemName": "Smoke Grenade Round",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51044,
+			"ItemName": "HE Grenade Round",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51045,
+			"ItemName": "AP Grenade Round",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51046,
+			"ItemName": "Flashbang Grenade Round",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51047,
+			"ItemName": "Spring Grenade Round",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51048,
+			"ItemName": "Hollow Point Assault Rifle Magazine",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51049,
+			"ItemName": "12x Rocket Pod",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51050,
+			"ItemName": "HMG Explosive Box",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51055,
+			"ItemName": "Medical Handbook",
+			"Selling": 250.00,
+			"Buying": 125.00
+		},
+		{
+			"Id": 51056,
+			"ItemName": "Munitions Handbook",
+			"Selling": 250.00,
+			"Buying": 125.00
+		},
+		{
+			"Id": 51057,
+			"ItemName": "Police Handbook",
+			"Selling": 250.00,
+			"Buying": 125.00
+		},
+		{
+			"Id": 51058,
+			"ItemName": "Hunting Handbook",
+			"Selling": 250.00,
+			"Buying": 125.00
+		},
+		{
+			"Id": 51059,
+			"ItemName": "Black Book 01",
+			"Selling": 250.00,
+			"Buying": 125.00
+		},
+		{
+			"Id": 51060,
+			"ItemName": "Duct Tape",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51061,
+			"ItemName": "Adhesive Compound",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51062,
+			"ItemName": "Pliers",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51063,
+			"ItemName": "UCAV",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51064,
+			"ItemName": "Throwing Knife",
+			"Selling": 100.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51065,
+			"ItemName": "Zlurp Soda",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51066,
+			"ItemName": "What Soda",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51067,
+			"ItemName": "Limited Edition What Soda",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51068,
+			"ItemName": "The Drinks Soda",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51069,
+			"ItemName": "The Drinks Soda",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51070,
+			"ItemName": "Goo Max Grape",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51071,
+			"ItemName": "PENINE Cranberry",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51072,
+			"ItemName": "PENINE Soda",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51073,
+			"ItemName": "Goo Max Lime",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51074,
+			"ItemName": "Bruh Root Beer",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51075,
+			"ItemName": "Greased Bolt",
+			"Selling": 150.00,
+			"Buying": 75.00
+		},
+		{
+			"Id": 51076,
+			"ItemName": "Tactical Laser",
+			"Selling": 150.00,
+			"Buying": 75.00
+		},
+		{
+			"Id": 51077,
+			"ItemName": "Heavy Barrel",
+			"Selling": 150.00,
+			"Buying": 75.00
+		},
+		{
+			"Id": 51078,
+			"ItemName": "Action Camera",
+			"Selling": 150.00,
+			"Buying": 75.00
+		},
+		{
+			"Id": 51080,
+			"ItemName": "Dot Sight",
+			"Selling": 150.00,
+			"Buying": 75.00
+		},
+		{
+			"Id": 51081,
+			"ItemName": "Private Scope",
+			"Selling": 150.00,
+			"Buying": 75.00
+		},
+		{
+			"Id": 51082,
+			"ItemName": "goober",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51083,
+			"ItemName": "10x Scope",
+			"Selling": 150.00,
+			"Buying": 75.00
+		},
+		{
+			"Id": 51084,
+			"ItemName": "Cross Sight",
+			"Selling": 150.00,
+			"Buying": 75.00
+		},
+		{
+			"Id": 51085,
+			"ItemName": "HCOG",
+			"Selling": 150.00,
+			"Buying": 75.00
+		},
+		{
+			"Id": 51086,
+			"ItemName": "Vertical Grip",
+			"Selling": 150.00,
+			"Buying": 75.00
+		},
+		{
+			"Id": 51087,
+			"ItemName": "Horizontal Grip",
+			"Selling": 150.00,
+			"Buying": 75.00
+		},
+		{
+			"Id": 51088,
+			"ItemName": "Bipod",
+			"Selling": 150.00,
+			"Buying": 75.00
+		},
+		{
+			"Id": 51089,
+			"ItemName": "Precision Barrel",
+			"Selling": 150.00,
+			"Buying": 75.00
+		},
+		{
+			"Id": 51090,
+			"ItemName": "Max Pressure Barrel",
+			"Selling": 150.00,
+			"Buying": 75.00
+		},
+		{
+			"Id": 51092,
+			"ItemName": "Strike Call 5 (TEST)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51094,
+			"ItemName": "Strike Call 4 (TEST)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51095,
+			"ItemName": "Strike Call 3 (TEST)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51096,
+			"ItemName": "hell",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51097,
+			"ItemName": "Strike Call 1 (TEST)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51098,
+			"ItemName": "Strike Call 6 (TEST)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51099,
+			"ItemName": "Canned Beans",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51100,
+			"ItemName": "Anvil Mask",
+			"Selling": 300.00,
+			"Buying": 150.00
+		},
+		{
+			"Id": 51101,
+			"ItemName": "Black Balaclava",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51102,
+			"ItemName": "Combat Top",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51103,
+			"ItemName": "Combat Bottom",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51104,
+			"ItemName": "Combat Top",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51105,
+			"ItemName": "Combat Bottom",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51106,
+			"ItemName": "Fatigue Top",
+			"Selling": 70.00,
+			"Buying": 35.00
+		},
+		{
+			"Id": 51107,
+			"ItemName": "Fatigue Bottom",
+			"Selling": 70.00,
+			"Buying": 35.00
+		},
+		{
+			"Id": 51108,
+			"ItemName": "Military Recon Vest",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51109,
+			"ItemName": "Military Recon Top",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51110,
+			"ItemName": "Military Recon Bottom",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51112,
+			"ItemName": "Recon Backpack",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51113,
+			"ItemName": "Military Helmet",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51114,
+			"ItemName": "Military Plate Carrier",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51115,
+			"ItemName": "Desert Rucksack",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51116,
+			"ItemName": "Anvil Helmet",
+			"Selling": 300.00,
+			"Buying": 150.00
+		},
+		{
+			"Id": 51117,
+			"ItemName": "Anvil Vest",
+			"Selling": 300.00,
+			"Buying": 150.00
+		},
+		{
+			"Id": 51120,
+			"ItemName": "Police Shirt",
+			"Selling": 70.00,
+			"Buying": 35.00
+		},
+		{
+			"Id": 51121,
+			"ItemName": "Police Tee",
+			"Selling": 70.00,
+			"Buying": 35.00
+		},
+		{
+			"Id": 51122,
+			"ItemName": "Police Pants",
+			"Selling": 70.00,
+			"Buying": 35.00
+		},
+		{
+			"Id": 51123,
+			"ItemName": "Police Shorts",
+			"Selling": 70.00,
+			"Buying": 35.00
+		},
+		{
+			"Id": 51125,
+			"ItemName": "Riot Helmet",
+			"Selling": 250.00,
+			"Buying": 125.00
+		},
+		{
+			"Id": 51126,
+			"ItemName": "Riot Plate Carrier",
+			"Selling": 250.00,
+			"Buying": 125.00
+		},
+		{
+			"Id": 51127,
+			"ItemName": "Riot Top",
+			"Selling": 150.00,
+			"Buying": 75.00
+		},
+		{
+			"Id": 51128,
+			"ItemName": "Riot Bottom",
+			"Selling": 150.00,
+			"Buying": 75.00
+		},
+		{
+			"Id": 51129,
+			"ItemName": "Armor Plate",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51130,
+			"ItemName": "Black Buttoned Shirt",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51131,
+			"ItemName": "Black Jacket",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51132,
+			"ItemName": "Black Tee",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51133,
+			"ItemName": "Blue Buttoned Shirt",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51134,
+			"ItemName": "Blue Jacket",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51135,
+			"ItemName": "Blue Tee",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51136,
+			"ItemName": "Green Buttoned Shirt",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51137,
+			"ItemName": "Green Jacket",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51138,
+			"ItemName": "Green Tee",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51139,
+			"ItemName": "Orange Buttoned Shirt",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51140,
+			"ItemName": "Orange Jacket",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51141,
+			"ItemName": "Orange Tee",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51142,
+			"ItemName": "Purple Buttoned Shirt",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51143,
+			"ItemName": "Purple Jacket",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51144,
+			"ItemName": "Purple Tee",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51145,
+			"ItemName": "Red Buttoned Shirt",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51146,
+			"ItemName": "Red Jacket",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51147,
+			"ItemName": "Red Tee",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51148,
+			"ItemName": "White Buttoned Shirt",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51149,
+			"ItemName": "White Jacket",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51150,
+			"ItemName": "White Tee",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51151,
+			"ItemName": "Yellow Buttoned Shirt",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51152,
+			"ItemName": "Yellow Jacket",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51153,
+			"ItemName": "Yellow Tee",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51154,
+			"ItemName": "Cargo Pants",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51155,
+			"ItemName": "Designer Jeans",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51156,
+			"ItemName": "Khaki Pants",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51157,
+			"ItemName": "Trouser Pants",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51158,
+			"ItemName": "Work Pants",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51159,
+			"ItemName": "Cargo Shorts",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51160,
+			"ItemName": "Designer Shorts",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51161,
+			"ItemName": "Khaki Shorts",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51162,
+			"ItemName": "Trouser Shorts",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51163,
+			"ItemName": "Work Shorts",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51164,
+			"ItemName": "Amphibious Assault Rig",
+			"Selling": 300.00,
+			"Buying": 200.00
+		},
+		{
+			"Id": 51165,
+			"ItemName": "Amphibious Assault Helmet",
+			"Selling": 300.00,
+			"Buying": 200.00
+		},
+		{
+			"Id": 51166,
+			"ItemName": "Amphibious Assault Top",
+			"Selling": 300.00,
+			"Buying": 200.00
+		},
+		{
+			"Id": 51167,
+			"ItemName": "Amphibious Assault Bottom",
+			"Selling": 300.00,
+			"Buying": 200.00
+		},
+		{
+			"Id": 51168,
+			"ItemName": "Biohazard Top",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51169,
+			"ItemName": "Biohazard Bottom",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51172,
+			"ItemName": "Gasmask",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51173,
+			"ItemName": "Zombie Glass Breaker",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51174,
+			"ItemName": "Nightvision Goggles",
+			"Selling": 1000.00,
+			"Buying": 200.00
+		},
+		{
+			"Id": 51175,
+			"ItemName": "Green Camping Shirt",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51176,
+			"ItemName": "Orange Camping Shirt",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51177,
+			"ItemName": "Black Farmer Overalls",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51178,
+			"ItemName": "Blue Farmer Overalls",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51179,
+			"ItemName": "Blue Farmer Top",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51180,
+			"ItemName": "Red Farmer Top",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51181,
+			"ItemName": "Firefighter Top",
+			"Selling": 250.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51182,
+			"ItemName": "Firefighter Bottom",
+			"Selling": 250.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51183,
+			"ItemName": "Purple Fishing Waders",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51184,
+			"ItemName": "Purple Fishing Top",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51185,
+			"ItemName": "Green Fishing Waders",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51186,
+			"ItemName": "Green Fishing Top",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51187,
+			"ItemName": "Survivor Top",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51188,
+			"ItemName": "Survivor Bottom",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51189,
+			"ItemName": "Doctor Top",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51190,
+			"ItemName": "Scrubs Top",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51191,
+			"ItemName": "Scrubs Bottoms",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51192,
+			"ItemName": "Cecilia",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51193,
+			"ItemName": "Arthur",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51194,
+			"ItemName": "Harold",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51195,
+			"ItemName": "gurt sad",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51196,
+			"ItemName": "gurt happy",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51197,
+			"ItemName": "Chucks Parts",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51198,
+			"ItemName": "Snow Hoodie",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51200,
+			"ItemName": "Armstrong",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51201,
+			"ItemName": "Weebley",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51202,
+			"ItemName": "HMT-250",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51203,
+			"ItemName": "Asset",
+			"Selling": 500.00,
+			"Buying": 250.00
+		},
+		{
+			"Id": 51204,
+			"ItemName": "Tank Turret",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51205,
+			"ItemName": "Private",
+			"Selling": 300.00,
+			"Buying": 150.00
+		},
+		{
+			"Id": 51206,
+			"ItemName": "LTLM",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51208,
+			"ItemName": "CSO-85",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51209,
+			"ItemName": "Hermes",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51210,
+			"ItemName": "Drill Bomb",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51211,
+			"ItemName": "Walker",
+			"Selling": 750.00,
+			"Buying": 375.00
+		},
+		{
+			"Id": 51212,
+			"ItemName": "Cavalry",
+			"Selling": 500.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51213,
+			"ItemName": "Government",
+			"Selling": 400.00,
+			"Buying": 200.00
+		},
+		{
+			"Id": 51214,
+			"ItemName": "Government-SP",
+			"Selling": 500.00,
+			"Buying": 250.00
+		},
+		{
+			"Id": 51215,
+			"ItemName": "Asset-SP",
+			"Selling": 750.00,
+			"Buying": 375.00
+		},
+		{
+			"Id": 51216,
+			"ItemName": "ECS-25",
+			"Selling": 750.00,
+			"Buying": 375.00
+		},
+		{
+			"Id": 51217,
+			"ItemName": "Falcon .50",
+			"Selling": 300.00,
+			"Buying": 150.00
+		},
+		{
+			"Id": 51218,
+			"ItemName": "Crown",
+			"Selling": 1000.00,
+			"Buying": 300.00
+		},
+		{
+			"Id": 51219,
+			"ItemName": "Nacht",
+			"Selling": 2000.00,
+			"Buying": 700.00
+		},
+		{
+			"Id": 51220,
+			"ItemName": "Ulfberht",
+			"Selling": 300.00,
+			"Buying": 150.00
+		},
+		{
+			"Id": 51221,
+			"ItemName": "Looty",
+			"Selling": 400.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51222,
+			"ItemName": "Uzey",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51223,
+			"ItemName": "Empey",
+			"Selling": 300.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51224,
+			"ItemName": "Cobalt",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51225,
+			"ItemName": "Twin Nacht",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51226,
+			"ItemName": "Valkyrie ERG-2",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51227,
+			"ItemName": "M1911",
+			"Selling": 150.00,
+			"Buying": 75.00
+		},
+		{
+			"Id": 51228,
+			"ItemName": "Bisey",
+			"Selling": 300.00,
+			"Buying": 150.00
+		},
+		{
+			"Id": 51229,
+			"ItemName": "Kompact",
+			"Selling": 500.00,
+			"Buying": 200.00
+		},
+		{
+			"Id": 51230,
+			"ItemName": "Poseidon",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51231,
+			"ItemName": "Bisey-SP",
+			"Selling": 350.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51232,
+			"ItemName": "Sentry Autocannon",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51233,
+			"ItemName": "Tonijn",
+			"Selling": 600.00,
+			"Buying": 200.00
+		},
+		{
+			"Id": 51234,
+			"ItemName": "Tonijn-SP",
+			"Selling": 650.00,
+			"Buying": 250.00
+		},
+		{
+			"Id": 51235,
+			"ItemName": "Cryogen-12",
+			"Selling": 1000.00,
+			"Buying": 300.00
+		},
+		{
+			"Id": 51236,
+			"ItemName": "Cryogen-12-SP",
+			"Selling": 1250.00,
+			"Buying": 400.00
+		},
+		{
+			"Id": 51237,
+			"ItemName": "RSS-03",
+			"Selling": 800.00,
+			"Buying": 400.00
+		},
+		{
+			"Id": 51238,
+			"ItemName": "RSS-03-SP",
+			"Selling": 1000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51239,
+			"ItemName": "Noses-12",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51240,
+			"ItemName": "Bluntforce-12",
+			"Selling": 350.00,
+			"Buying": 175.00
+		},
+		{
+			"Id": 51241,
+			"ItemName": "Bluntforce-12-SP",
+			"Selling": 500.00,
+			"Buying": 250.00
+		},
+		{
+			"Id": 51242,
+			"ItemName": "Centare",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51243,
+			"ItemName": "Centare-SP",
+			"Selling": 300.00,
+			"Buying": 150.00
+		},
+		{
+			"Id": 51244,
+			"ItemName": "Tanto",
+			"Selling": 400.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51245,
+			"ItemName": "Tanto-SP",
+			"Selling": 500.00,
+			"Buying": 150.00
+		},
+		{
+			"Id": 51247,
+			"ItemName": "Tukavtomat",
+			"Selling": 250.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51250,
+			"ItemName": "M1911-SP",
+			"Selling": 250.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51251,
+			"ItemName": "Damaged Great Sword",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51252,
+			"ItemName": "Great Sword",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51253,
+			"ItemName": "Blowtorch",
+			"Selling": 600.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51254,
+			"ItemName": "Wrench",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51255,
+			"ItemName": "Hammer",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51257,
+			"ItemName": "Breaching Hammer",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51258,
+			"ItemName": "Mallet",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51259,
+			"ItemName": "Hatchet",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51260,
+			"ItemName": "Baseball Bat",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51261,
+			"ItemName": "Pry Bar",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51262,
+			"ItemName": "Cleaver",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51263,
+			"ItemName": "Police Baton",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51264,
+			"ItemName": "Combat Knife",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51265,
+			"ItemName": "Military Knife",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51266,
+			"ItemName": "Flashlight",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51267,
+			"ItemName": "Camp Axe",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51268,
+			"ItemName": "Fire Axe",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51269,
+			"ItemName": "Pitchfork",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51270,
+			"ItemName": "Shovel",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51271,
+			"ItemName": "Frying Pan",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51272,
+			"ItemName": "Kitchen Knife",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51273,
+			"ItemName": "Rake",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51274,
+			"ItemName": "Pickaxe",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51275,
+			"ItemName": "Chainsaw",
+			"Selling": 500.00,
+			"Buying": 250.00
+		},
+		{
+			"Id": 51276,
+			"ItemName": "Jackhammer",
+			"Selling": 500.00,
+			"Buying": 250.00
+		},
+		{
+			"Id": 51277,
+			"ItemName": "Ares",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51278,
+			"ItemName": "Private-SP",
+			"Selling": 350.00,
+			"Buying": 175.00
+		},
+		{
+			"Id": 51280,
+			"ItemName": "ECS-25-SP",
+			"Selling": 750.00,
+			"Buying": 375.00
+		},
+		{
+			"Id": 51281,
+			"ItemName": "CSO-85-SP",
+			"Selling": 5000.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51282,
+			"ItemName": "Hemel 20MM",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51283,
+			"ItemName": "Ulfberht-SP",
+			"Selling": 350.00,
+			"Buying": 125.00
+		},
+		{
+			"Id": 51284,
+			"ItemName": "Kompact-SP",
+			"Selling": 500.00,
+			"Buying": 125.00
+		},
+		{
+			"Id": 51285,
+			"ItemName": "Empey-SP",
+			"Selling": 350.00,
+			"Buying": 125.00
+		},
+		{
+			"Id": 51286,
+			"ItemName": "Uzey-SP",
+			"Selling": 450.00,
+			"Buying": 225.00
+		},
+		{
+			"Id": 51287,
+			"ItemName": "Nacht-SP",
+			"Selling": 5000.00,
+			"Buying": 2500.00
+		},
+		{
+			"Id": 51288,
+			"ItemName": "Gotha Bomb",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51289,
+			"ItemName": "ECS-25-BLK",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51290,
+			"ItemName": "ECS-25-BLK-SP",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51291,
+			"ItemName": "Golden Falcon",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51292,
+			"ItemName": "M1911 \"Accelerator\"",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51293,
+			"ItemName": "M1911-SP \"Accelerator\"",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51294,
+			"ItemName": "Government \"Vaquero\"",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51295,
+			"ItemName": "Government-SP \"Vaquero\"",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51296,
+			"ItemName": "Valhalla SGNL-512",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51297,
+			"ItemName": "Valhalla SGNL-512-SP",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51298,
+			"ItemName": "Tukavtomat-SP",
+			"Selling": 350.00,
+			"Buying": 150.00
+		},
+		{
+			"Id": 51299,
+			"ItemName": "20mm Auto Cannon",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51300,
+			"ItemName": "Fragmentation Grenade",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51301,
+			"ItemName": "Double Frag Grenade",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51302,
+			"ItemName": "Triple Frag Grenade",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51303,
+			"ItemName": "Novenfrag",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51304,
+			"ItemName": "Tripwire",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51306,
+			"ItemName": "Disruption Grenade",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51307,
+			"ItemName": "Nitroglycerin",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51308,
+			"ItemName": "Explosive Charge",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51310,
+			"ItemName": "Detonator",
+			"Selling": 500.00,
+			"Buying": 250.00
+		},
+		{
+			"Id": 51312,
+			"ItemName": "Thermal Charge",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51313,
+			"ItemName": "Glue",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51314,
+			"ItemName": "Chemicals",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51315,
+			"ItemName": "Impact Grenade",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51316,
+			"ItemName": "Smoke Grenade",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51317,
+			"ItemName": "Mortar Shell",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51318,
+			"ItemName": "Throwing Disk",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51319,
+			"ItemName": "Throwing Landmine",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51320,
+			"ItemName": "Brick",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51321,
+			"ItemName": "Sundoor",
+			"Selling": 500.00,
+			"Buying": 250.00
+		},
+		{
+			"Id": 51322,
+			"ItemName": "Tempest",
+			"Selling": 3000.00,
+			"Buying": 1500.00
+		},
+		{
+			"Id": 51323,
+			"ItemName": "HE Shell",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51324,
+			"ItemName": "Hera",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51325,
+			"ItemName": "Rocket Pod",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51326,
+			"ItemName": "20mm Auto Cannon",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51327,
+			"ItemName": "Tempest Laser",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51328,
+			"ItemName": "Airdrop Call Module",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51329,
+			"ItemName": "Blank Strike Module",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51330,
+			"ItemName": "Strike Call - Bomb Strike",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51331,
+			"ItemName": "Strike Call - Precision Strike",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51332,
+			"ItemName": "Strike Call - Mortar Strike",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51333,
+			"ItemName": "Strike Call - Smoke Concealment",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51334,
+			"ItemName": "Airdrop Grenade",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51335,
+			"ItemName": "Dual Falcon .50s",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51336,
+			"ItemName": "Dual M1911s",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51337,
+			"ItemName": "Dual Tantos",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51338,
+			"ItemName": "Dual Pistol Magazine",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51339,
+			"ItemName": "Dual M1911-SPs",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51340,
+			"ItemName": "Dual Tanto-SPs",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51341,
+			"ItemName": "Dual Golden Falcons",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51342,
+			"ItemName": "Dual M1911 \"Accelerators\"",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51343,
+			"ItemName": "Dual Iridium Tantos",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51344,
+			"ItemName": "Dual M1911-SP \"Accelerators\"",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51345,
+			"ItemName": "Dual Iridium Tanto-SPs",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51346,
+			"ItemName": "Tempest-SP",
+			"Selling": 3500.00,
+			"Buying": 1750.00
+		},
+		{
+			"Id": 51347,
+			"ItemName": "Sundoor-SP",
+			"Selling": 500.00,
+			"Buying": 250.00
+		},
+		{
+			"Id": 51348,
+			"ItemName": "Midnight Blade",
+			"Selling": 25000.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51349,
+			"ItemName": "Ballistic Shield",
+			"Selling": 20000.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51351,
+			"ItemName": "3D Printed Vertical Grip (White)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51352,
+			"ItemName": "3D Printed Vertical Grip (Red)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51353,
+			"ItemName": "3D Printed Vertical Grip (Orange)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51354,
+			"ItemName": "3D Printed Vertical Grip (Green)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51355,
+			"ItemName": "3D Printed Vertical Grip (Blue)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51357,
+			"ItemName": "3D Printed Horizontal Grip (White)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51358,
+			"ItemName": "3D Printed Horizontal Grip (Red)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51359,
+			"ItemName": "3D Printed Horizontal Grip (Orange)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51360,
+			"ItemName": "3D Printed Horizontal Grip (Green)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51361,
+			"ItemName": "3D Printed Horizontal Grip (Blue)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51362,
+			"ItemName": "Walker Iron Sights",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51363,
+			"ItemName": "Tonijn Iron Sights",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51364,
+			"ItemName": "Kompact Iron Sights",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51365,
+			"ItemName": "Empey Iron Sights",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51370,
+			"ItemName": "3D Printed Dot Sight (White)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51371,
+			"ItemName": "3D Printed Dot Sight (Red)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51372,
+			"ItemName": "3D Printed Dot Sight (Orange)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51373,
+			"ItemName": "3D Printed Dot Sight (Green)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51374,
+			"ItemName": "3D Printed Dot Sight (Blue)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51375,
+			"ItemName": "3D Printed Scope (White)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51376,
+			"ItemName": "3D Printed Scope (Red)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51377,
+			"ItemName": "3D Printed Scope (Orange)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51378,
+			"ItemName": "3D Printed Scope (Green)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51379,
+			"ItemName": "3D Printed Scope (Blue)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51380,
+			"ItemName": "3D Printed Bipod (White)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51381,
+			"ItemName": "3D Printed Bipod (Red)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51382,
+			"ItemName": "3D Printed Bipod (Orange)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51383,
+			"ItemName": "3D Printed Bipod (Green)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51384,
+			"ItemName": "3D Printed Bipod (Blue)",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51385,
+			"ItemName": "RSS-03 Iron Sights",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51388,
+			"ItemName": "Centare Iron Sights",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51400,
+			"ItemName": "Bandage",
+			"Selling": 25.00,
+			"Buying": 12.50
+		},
+		{
+			"Id": 51401,
+			"ItemName": "Dressing",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51404,
+			"ItemName": "Banana",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51405,
+			"ItemName": "Banana Peel",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51406,
+			"ItemName": "Inhaler",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51407,
+			"ItemName": "Medpack",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51408,
+			"ItemName": "Stim",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51409,
+			"ItemName": "Adrenaline",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51410,
+			"ItemName": "Morphine",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51411,
+			"ItemName": "Vaccine",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51413,
+			"ItemName": "Cough Syrup",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51414,
+			"ItemName": "Blood Bag",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51415,
+			"ItemName": "Painkillers",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51416,
+			"ItemName": "Purification Tablets",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51473,
+			"ItemName": "Canteen",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51474,
+			"ItemName": "Lettuce",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51475,
+			"ItemName": "Tomato",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51476,
+			"ItemName": "Carrot",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51477,
+			"ItemName": "Canned Chili",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51478,
+			"ItemName": "Raw Meat",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51479,
+			"ItemName": "Cooked Meat",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51480,
+			"ItemName": "Cheese",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51481,
+			"ItemName": "Jam",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51482,
+			"ItemName": "Eggs",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51483,
+			"ItemName": "Bread",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51484,
+			"ItemName": "Bread Loaf",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51485,
+			"ItemName": "Crackers",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51486,
+			"ItemName": "Cracker Sleeve",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51487,
+			"ItemName": "Apple",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51488,
+			"ItemName": "Strawberries",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51489,
+			"ItemName": "Chips",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51490,
+			"ItemName": "Chocolate Bar",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51491,
+			"ItemName": "Candy Bar",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51492,
+			"ItemName": "Cereal",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51494,
+			"ItemName": "Sardine",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51495,
+			"ItemName": "Trout",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51496,
+			"ItemName": "Salmon",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51497,
+			"ItemName": "Bass",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51498,
+			"ItemName": "Raw Fish",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51499,
+			"ItemName": "Cooked Fish",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51500,
+			"ItemName": "MRE",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51594,
+			"ItemName": "Canned Beans",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51596,
+			"ItemName": "Canned Beans",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51597,
+			"ItemName": "Canned Beans",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51603,
+			"ItemName": "Land Mine",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51604,
+			"ItemName": "Bouncing Betty",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51605,
+			"ItemName": "Shotgun Trap",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51606,
+			"ItemName": "Knee Mortar",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51607,
+			"ItemName": "Sentry Engine",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51610,
+			"ItemName": "BreakPlate",
+			"Selling": 100.00,
+			"Buying": 5.00
+		},
+		{
+			"Id": 51611,
+			"ItemName": "Locker",
+			"Selling": 500.00,
+			"Buying": 250.00
+		},
+		{
+			"Id": 51612,
+			"ItemName": "Industrial Locker",
+			"Selling": 2000.00,
+			"Buying": 1000.00
+		},
+		{
+			"Id": 51613,
+			"ItemName": "Wooden Crate",
+			"Selling": 250.00,
+			"Buying": 125.00
+		},
+		{
+			"Id": 51614,
+			"ItemName": "Large Wooden Crate",
+			"Selling": 1000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51615,
+			"ItemName": "Red Plastic Crate",
+			"Selling": 500.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51616,
+			"ItemName": "Orange Plastic Crate",
+			"Selling": 500.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51617,
+			"ItemName": "Green Plastic Crate",
+			"Selling": 500.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51618,
+			"ItemName": "Blue Plastic Crate",
+			"Selling": 500.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51619,
+			"ItemName": "White Plastic Crate",
+			"Selling": 500.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51620,
+			"ItemName": "Small Generator",
+			"Selling": 500.00,
+			"Buying": 250.00
+		},
+		{
+			"Id": 51621,
+			"ItemName": "Blast Forge",
+			"Selling": 5000.00,
+			"Buying": 2500.00
+		},
+		{
+			"Id": 51622,
+			"ItemName": "Plastic Mannequin",
+			"Selling": 500.00,
+			"Buying": 250.00
+		},
+		{
+			"Id": 51623,
+			"ItemName": "Metal Mannequin",
+			"Selling": 1000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51624,
+			"ItemName": "Industrial Generator",
+			"Selling": 2500.00,
+			"Buying": 1250.00
+		},
+		{
+			"Id": 51625,
+			"ItemName": "Apple Seed",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51626,
+			"ItemName": "Carrot Seed",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51627,
+			"ItemName": "Lettuce Seed",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51628,
+			"ItemName": "Strawberry Seed",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51629,
+			"ItemName": "Tomato Seed",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51630,
+			"ItemName": "Explosive Barrel",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51631,
+			"ItemName": "Fabric Seed",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51633,
+			"ItemName": "Metal Ladder",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51634,
+			"ItemName": "Sandbag",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51635,
+			"ItemName": "Sandbag Line",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51636,
+			"ItemName": "Worklamp",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51637,
+			"ItemName": "Bulletproof Glass",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51638,
+			"ItemName": "One Way Glass",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51639,
+			"ItemName": "Wooden Door",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51640,
+			"ItemName": "Metal Door",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51642,
+			"ItemName": "Wooden Barricade",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51643,
+			"ItemName": "Metal Doubledoor",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51644,
+			"ItemName": "Wooden Doubledoor",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51645,
+			"ItemName": "Wooden Gate",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51646,
+			"ItemName": "Metal Gate",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51647,
+			"ItemName": "Wooden Fortification",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51648,
+			"ItemName": "Metal Fortification",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51649,
+			"ItemName": "Wooden Hatch",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51650,
+			"ItemName": "Metal Hatch",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51651,
+			"ItemName": "Wooden Ladder",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51652,
+			"ItemName": "Wooden Shutter",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51653,
+			"ItemName": "Metal Shutter",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51654,
+			"ItemName": "Vault Hatch",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51655,
+			"ItemName": "Barbed Wire",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51656,
+			"ItemName": "Concertina Wire",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51657,
+			"ItemName": "Beartrap",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51658,
+			"ItemName": "Bedroll",
+			"Selling": 250.00,
+			"Buying": 125.00
+		},
+		{
+			"Id": 51659,
+			"ItemName": "Cardboard Bed",
+			"Selling": 500.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51660,
+			"ItemName": "Claim Beacon",
+			"Selling": 600.00,
+			"Buying": 300.00
+		},
+		{
+			"Id": 51661,
+			"ItemName": "Metal Chair",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51662,
+			"ItemName": "Horde Beacon",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51663,
+			"ItemName": "Planter",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51664,
+			"ItemName": "Plot",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51665,
+			"ItemName": "Police Barricade",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51666,
+			"ItemName": "Radio",
+			"Selling": 1000.00,
+			"Buying": 250.00
+		},
+		{
+			"Id": 51667,
+			"ItemName": "Wooden Spikes",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51668,
+			"ItemName": "Tanktrap",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51669,
+			"ItemName": "Torch",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51670,
+			"ItemName": "White Couch",
+			"Selling": 500.00,
+			"Buying": 250.00
+		},
+		{
+			"Id": 51671,
+			"ItemName": "Red Couch",
+			"Selling": 500.00,
+			"Buying": 250.00
+		},
+		{
+			"Id": 51672,
+			"ItemName": "Yellow Couch",
+			"Selling": 500.00,
+			"Buying": 250.00
+		},
+		{
+			"Id": 51673,
+			"ItemName": "Blue Couch",
+			"Selling": 500.00,
+			"Buying": 250.00
+		},
+		{
+			"Id": 51674,
+			"ItemName": "Green Couch",
+			"Selling": 500.00,
+			"Buying": 250.00
+		},
+		{
+			"Id": 51675,
+			"ItemName": "Vault Door",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51677,
+			"ItemName": "White Bed",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51678,
+			"ItemName": "Red Bed",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51679,
+			"ItemName": "Yellow Bed",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51680,
+			"ItemName": "Green Bed",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51681,
+			"ItemName": "Blue Bed",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51683,
+			"ItemName": "Funky Carpet (Gray)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51684,
+			"ItemName": "Funky Carpet (Orange)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51685,
+			"ItemName": "Funky Carpet (Blue)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51686,
+			"ItemName": "Playmat",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51688,
+			"ItemName": "Poster - HOPE",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51689,
+			"ItemName": "Poster - Retu",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51692,
+			"ItemName": "SpiderTank",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51693,
+			"ItemName": "TKRFIRE",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51694,
+			"ItemName": "PBS airdrop",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51695,
+			"ItemName": "PBS Sea Mine MAP OBJECT",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51696,
+			"ItemName": "PBS Razorwire 1 MAP OBJECT",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51697,
+			"ItemName": "PBS Razorwire 2 MAP OBJECT",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51698,
+			"ItemName": "PBS airdrop",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51700,
+			"ItemName": "Wooden Floor",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51701,
+			"ItemName": "Wooden Wall",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51702,
+			"ItemName": "Wooden Roof",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51703,
+			"ItemName": "Wooden Doorway",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51704,
+			"ItemName": "Wooden Window",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51705,
+			"ItemName": "Wooden Garage",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51706,
+			"ItemName": "Wooden Hole",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51707,
+			"ItemName": "Wooden Stairs",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51708,
+			"ItemName": "Wooden Ramp",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51709,
+			"ItemName": "Wooden Ramp Wall",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51710,
+			"ItemName": "Wooden Rampart",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51711,
+			"ItemName": "Wooden Triangular Floor",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51712,
+			"ItemName": "Wooden Triangular Roof",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51713,
+			"ItemName": "Wooden Half Floor",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51714,
+			"ItemName": "Wooden Half Roof",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51715,
+			"ItemName": "Wooden Decorative Pillar",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51716,
+			"ItemName": "Wooden Decorative Post",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51717,
+			"ItemName": "Wooden Half Wall",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51718,
+			"ItemName": "Wooden Center Wall",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51719,
+			"ItemName": "Wooden Offset Doorway",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51720,
+			"ItemName": "Wooden Half Doorway",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51721,
+			"ItemName": "Wooden Circular Window",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51722,
+			"ItemName": "Wooden Horizontal Window",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51723,
+			"ItemName": "Wooden Vertical Window",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51724,
+			"ItemName": "Wooden Center Offset Hole",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51725,
+			"ItemName": "Wooden Corner Offset Hole",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51726,
+			"ItemName": "Wooden Left Stairs",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51727,
+			"ItemName": "Wooden Right Stairs",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51728,
+			"ItemName": "Wooden Triangular Hole",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51729,
+			"ItemName": "Wooden Half Ramp Left",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51730,
+			"ItemName": "Wooden Half Ramp Right",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51731,
+			"ItemName": "Wooden Concave Ramp",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51732,
+			"ItemName": "Wooden Convex Ramp",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51733,
+			"ItemName": "Wooden Pyramid Cap",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51734,
+			"ItemName": "Wooden Short Ramp Wall",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51735,
+			"ItemName": "Wooden Half Rampart",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51736,
+			"ItemName": "Wooden Slotted Rampart",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51737,
+			"ItemName": "Wooden Railing",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51738,
+			"ItemName": "Wooden Half Railing",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51739,
+			"ItemName": "Wooden Center Doorway",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51740,
+			"ItemName": "Wooden Center Window",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51741,
+			"ItemName": "Wooden Center Railing",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51742,
+			"ItemName": "Wooden Left Landing",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51743,
+			"ItemName": "Wooden Right Landing",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51744,
+			"ItemName": "Wooden Quarter Hole",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51745,
+			"ItemName": "Wooden Lower Triangular Ramp",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51746,
+			"ItemName": "Wooden Upper Triangular Ramp",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51747,
+			"ItemName": "Wooden Reverse Stairs",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51748,
+			"ItemName": "Wooden Storefront",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51749,
+			"ItemName": "Wooden Upper Short Ramp Wall",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51750,
+			"ItemName": "Wooden Upper Rampart",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51760,
+			"ItemName": "Armored Floor",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51761,
+			"ItemName": "Armored Wall",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51762,
+			"ItemName": "Armored Roof",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51763,
+			"ItemName": "Armored Doorway",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51764,
+			"ItemName": "Armored Window",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51765,
+			"ItemName": "Armored Garage",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51766,
+			"ItemName": "Armored Hole",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51767,
+			"ItemName": "Armored Stairs",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51768,
+			"ItemName": "Armored Ramp",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51769,
+			"ItemName": "Armored Ramp Wall",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51770,
+			"ItemName": "Armored Rampart",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51771,
+			"ItemName": "Armored Triangular Floor",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51772,
+			"ItemName": "Armored Triangular Roof",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51781,
+			"ItemName": "Reinforced Wall",
+			"Selling": 1000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51782,
+			"ItemName": "Reinforced Doorway",
+			"Selling": 1000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51783,
+			"ItemName": "Reinforced Window",
+			"Selling": 1000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51784,
+			"ItemName": "Reinforced Garage",
+			"Selling": 1000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51785,
+			"ItemName": "Reinforced Ramp Wall",
+			"Selling": 1000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51786,
+			"ItemName": "Reinforced Rampart",
+			"Selling": 1000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51787,
+			"ItemName": "Reinforced Half Wall",
+			"Selling": 1000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51788,
+			"ItemName": "Reinforced Center Wall",
+			"Selling": 1000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51789,
+			"ItemName": "Reinforced Offset Doorway",
+			"Selling": 1000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51790,
+			"ItemName": "Reinforced Circular Window",
+			"Selling": 1000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51791,
+			"ItemName": "Reinforced Horizontal Window",
+			"Selling": 1000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51792,
+			"ItemName": "Reinforced Vertical Window",
+			"Selling": 1000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51793,
+			"ItemName": "Reinforced Short Ramp Wall",
+			"Selling": 1000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51794,
+			"ItemName": "Reinforced Half Rampart",
+			"Selling": 1000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51795,
+			"ItemName": "Reinforced Slotted Rampart",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51796,
+			"ItemName": "Reinforced Half Doorway",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51797,
+			"ItemName": "Reinforced Center Doorway",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51798,
+			"ItemName": "Reinforced Center Window",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51800,
+			"ItemName": "Metal Floor",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51801,
+			"ItemName": "Metal Wall",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51802,
+			"ItemName": "Metal Roof",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51803,
+			"ItemName": "Metal Doorway",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51804,
+			"ItemName": "Metal Window",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51805,
+			"ItemName": "Metal Garage",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51806,
+			"ItemName": "Metal Hole",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51807,
+			"ItemName": "Metal Stairs",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51808,
+			"ItemName": "Metal Ramp",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51809,
+			"ItemName": "Metal Ramp Wall",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51810,
+			"ItemName": "Metal Rampart",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51811,
+			"ItemName": "Metal Triangular Floor",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51812,
+			"ItemName": "Metal Triangular Roof",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51813,
+			"ItemName": "Metal Half Floor",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51814,
+			"ItemName": "Metal Half Roof",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51815,
+			"ItemName": "Metal Decorative Pillar",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51816,
+			"ItemName": "Metal Decorative Post",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51817,
+			"ItemName": "Metal Half Wall",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51818,
+			"ItemName": "Metal Center Wall",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51819,
+			"ItemName": "Metal Offset Doorway",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51820,
+			"ItemName": "Metal Half Doorway",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51821,
+			"ItemName": "Metal Circular Window",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51822,
+			"ItemName": "Metal Horizontal Window",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51823,
+			"ItemName": "Metal Vertical Window",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51824,
+			"ItemName": "Metal Center Offset Hole",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51825,
+			"ItemName": "Metal Corner Offset Hole",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51826,
+			"ItemName": "Metal Left Stairs",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51827,
+			"ItemName": "Metal Right Stairs",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51828,
+			"ItemName": "Metal Triangular Hole",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51829,
+			"ItemName": "Metal Half Ramp Left",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51830,
+			"ItemName": "Metal Half Ramp Right",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51831,
+			"ItemName": "Metal Concave Ramp",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51832,
+			"ItemName": "Metal Convex Ramp",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51833,
+			"ItemName": "Metal Pyramid Cap",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51834,
+			"ItemName": "Metal Short Ramp Wall",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51835,
+			"ItemName": "Metal Half Rampart",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51836,
+			"ItemName": "Metal Slotted Rampart",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51837,
+			"ItemName": "Metal Railing",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51838,
+			"ItemName": "Metal Half Railing",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51839,
+			"ItemName": "Metal Center Doorway",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51840,
+			"ItemName": "Metal Center Window",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51841,
+			"ItemName": "Metal Center Railing",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51842,
+			"ItemName": "Metal Left Landing",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51843,
+			"ItemName": "Metal Right Landing",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51844,
+			"ItemName": "Metal Quarter Hole",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51845,
+			"ItemName": "Metal Lower Triangular Ramp",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51846,
+			"ItemName": "Metal Upper Triangular Ramp",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51847,
+			"ItemName": "Metal Reverse Stairs",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51848,
+			"ItemName": "Metal Storefront",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51849,
+			"ItemName": "Metal Upper Short Ramp Wall",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51850,
+			"ItemName": "Wooden Quarter Roof",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51851,
+			"ItemName": "Wooden Quartered Roof",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51852,
+			"ItemName": "Wooden Decorative Centered Pillar",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51853,
+			"ItemName": "Wooden Decorative Centered Post",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51854,
+			"ItemName": "Wooden Half Center Railing",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51855,
+			"ItemName": "Wooden Ramp Rampart",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51856,
+			"ItemName": "Wooden Ramp Railing",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51857,
+			"ItemName": "Wooden Center Rampart",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51858,
+			"ItemName": "Wooden Half Left Center Wall",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51859,
+			"ItemName": "Wooden Half Right Center Wall",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51860,
+			"ItemName": "Metal Quarter Roof",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51861,
+			"ItemName": "Metal Quartered Roof",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51862,
+			"ItemName": "Metal Decorative Centered Pillar",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51863,
+			"ItemName": "Metal Decorative Centered Post",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51864,
+			"ItemName": "Metal Half Center Railing",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51865,
+			"ItemName": "Metal Ramp Rampart",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51866,
+			"ItemName": "Metal Ramp Railing",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51867,
+			"ItemName": "Metal Center Rampart",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51868,
+			"ItemName": "Metal Half Left Center Wall",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51869,
+			"ItemName": "Metal Half Right Center Wall",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51870,
+			"ItemName": "Metal Upper Rampart",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51880,
+			"ItemName": "Wooden Trapped Roof",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51881,
+			"ItemName": "Wooden Trapped Triangular Roof",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51882,
+			"ItemName": "Wooden Trapped Hole",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51885,
+			"ItemName": "Reinforced Floor",
+			"Selling": 1000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51886,
+			"ItemName": "Reinforced Roof",
+			"Selling": 1000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51887,
+			"ItemName": "Reinforced Triangular Floor",
+			"Selling": 1000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51888,
+			"ItemName": "Reinforced Triangular Roof",
+			"Selling": 1000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51889,
+			"ItemName": "Reinforced Hole",
+			"Selling": 1000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51890,
+			"ItemName": "Reinforced Roof",
+			"Selling": 1000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51891,
+			"ItemName": "Reinforced Triangular Roof",
+			"Selling": 1000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51892,
+			"ItemName": "Reinforced Short Ramp Wall",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51893,
+			"ItemName": "Reinforced Storefront",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51900,
+			"ItemName": "5 Grubby",
+			"Selling": 25.00,
+			"Buying": 5.00
+		},
+		{
+			"Id": 51901,
+			"ItemName": "10 Grubby",
+			"Selling": 50.00,
+			"Buying": 10.00
+		},
+		{
+			"Id": 51902,
+			"ItemName": "25 Grubby",
+			"Selling": 125.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51903,
+			"ItemName": "50 Grubby",
+			"Selling": 250.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51904,
+			"ItemName": "100 Grubby",
+			"Selling": 500.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51905,
+			"ItemName": "250 Grubby",
+			"Selling": 1250.00,
+			"Buying": 250.00
+		},
+		{
+			"Id": 51906,
+			"ItemName": "500 Grubby",
+			"Selling": 2500.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 51908,
+			"ItemName": "Armor Piercing Marksman Magazine",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51909,
+			"ItemName": "Hollow Point Marksman Magazine",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51910,
+			"ItemName": "12 Gauge Shells",
+			"Selling": 100.00,
+			"Buying": 30.00
+		},
+		{
+			"Id": 51911,
+			"ItemName": "20 Gauge Shells",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51912,
+			"ItemName": "SMG Magazine",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51913,
+			"ItemName": "Hollow Point SMG Magazine",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51914,
+			"ItemName": "HMG Box",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51915,
+			"ItemName": "LMG Drum",
+			"Selling": 400.00,
+			"Buying": 200.00
+		},
+		{
+			"Id": 51916,
+			"ItemName": "SABOT Slug",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51917,
+			"ItemName": "Crown Bullet",
+			"Selling": 25.00,
+			"Buying": 5.00
+		},
+		{
+			"Id": 51918,
+			"ItemName": "Baffle Kit",
+			"Selling": 300.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51919,
+			"ItemName": "Midnight Keycard",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51920,
+			"ItemName": "Black Construction Top",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51921,
+			"ItemName": "White Construction Top",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51922,
+			"ItemName": "Building Planner",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51923,
+			"ItemName": "Short Gun Crate",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51924,
+			"ItemName": "Long Gun Crate",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51925,
+			"ItemName": "Armory Crate",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51927,
+			"ItemName": "Wooden Fishing Rod",
+			"Selling": 100.00,
+			"Buying": 5.00
+		},
+		{
+			"Id": 51928,
+			"ItemName": "Fiberglass Fishing Rod",
+			"Selling": 1000.00,
+			"Buying": 10.00
+		},
+		{
+			"Id": 51929,
+			"ItemName": "Carbon Fiber Fishing Rod",
+			"Selling": 5000.00,
+			"Buying": 15.00
+		},
+		{
+			"Id": 51930,
+			"ItemName": "Chum Box",
+			"Selling": 300.00,
+			"Buying": 150.00
+		},
+		{
+			"Id": 51932,
+			"ItemName": "Short Gun Crate Storage",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51933,
+			"ItemName": "Long Gun Crate Storage",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51934,
+			"ItemName": "Armory Crate Storage",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51935,
+			"ItemName": "Stealy Wheely Automobiley",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51936,
+			"ItemName": "Gascan",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51937,
+			"ItemName": "Car Battery",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51938,
+			"ItemName": "Carjack ",
+			"Selling": 100.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 51939,
+			"ItemName": "Fertilizer ",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51940,
+			"ItemName": "Coffee Filter",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51941,
+			"ItemName": "Gasmask Filter",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51942,
+			"ItemName": "Industrial Gascan",
+			"Selling": 600.00,
+			"Buying": 200.00
+		},
+		{
+			"Id": 51943,
+			"ItemName": "25x Intermediate Rounds",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51944,
+			"ItemName": "90x Intermediate Rounds",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51945,
+			"ItemName": "250x Intermediate Rounds",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51946,
+			"ItemName": "20x High Caliber Rounds",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51947,
+			"ItemName": "100x High Caliber Rounds",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51948,
+			"ItemName": "Shaped Warhead",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51949,
+			"ItemName": "Refined Oil",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 51950,
+			"ItemName": "High Tech Fuse",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51951,
+			"ItemName": "Willem",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51952,
+			"ItemName": "Caster",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51953,
+			"ItemName": "Pollen",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51954,
+			"ItemName": "Ruth",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51955,
+			"ItemName": "Mechanic Top",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51956,
+			"ItemName": "Mechanic Bottom",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51957,
+			"ItemName": "Prisoner Top",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51958,
+			"ItemName": "Prisoner Bottom",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51959,
+			"ItemName": "Clint",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51960,
+			"ItemName": "Taylor",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51961,
+			"ItemName": "Dr Home",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51962,
+			"ItemName": "Jennifer",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51963,
+			"ItemName": "Cillian",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51964,
+			"ItemName": "Hunter",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51965,
+			"ItemName": "Red Cap",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51966,
+			"ItemName": "Orange Cap",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51967,
+			"ItemName": "Yellow Cap",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51968,
+			"ItemName": "Green Cap",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51969,
+			"ItemName": "Blue Cap",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51970,
+			"ItemName": "Purple Cap",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51971,
+			"ItemName": "Black Cap",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51972,
+			"ItemName": "White Cap",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51973,
+			"ItemName": "Red Beanie",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51974,
+			"ItemName": "Orange Beanie",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51975,
+			"ItemName": "Yellow Beanie",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51976,
+			"ItemName": "Green Beanie",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51977,
+			"ItemName": "Blue Beanie",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51978,
+			"ItemName": "Purple Beanie",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51979,
+			"ItemName": "Black Beanie",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51980,
+			"ItemName": "White Beanie",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51981,
+			"ItemName": "Police Cap",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51982,
+			"ItemName": "Police Hat",
+			"Selling": 50.00,
+			"Buying": 25.00
+		},
+		{
+			"Id": 51983,
+			"ItemName": "Police Vest",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51984,
+			"ItemName": "Firefighter Helmet",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51985,
+			"ItemName": "Hard Hat",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51986,
+			"ItemName": "Alice Pack",
+			"Selling": 1000.00,
+			"Buying": 250.00
+		},
+		{
+			"Id": 51987,
+			"ItemName": "Cloth Pack",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51988,
+			"ItemName": "Red Daypack",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51989,
+			"ItemName": "Orange Daypack",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51990,
+			"ItemName": "Yellow Daypack",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51991,
+			"ItemName": "Green Daypack",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51992,
+			"ItemName": "Blue Daypack",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51993,
+			"ItemName": "Red Hiking Pack",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51994,
+			"ItemName": "Orange Hiking Pack",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51995,
+			"ItemName": "Yellow Hiking Pack",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51996,
+			"ItemName": "Green Hiking Pack",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51997,
+			"ItemName": "Blue Hiking Pack",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51999,
+			"ItemName": "API",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52018,
+			"ItemName": "Scene Starter Beans",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52020,
+			"ItemName": "Biohazard Tank",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52021,
+			"ItemName": "BioHood",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52022,
+			"ItemName": "Farmer Hat",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52023,
+			"ItemName": "EOD Helmet",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52024,
+			"ItemName": "Strike Call 6 (TEST)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52025,
+			"ItemName": "BioBlue",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52026,
+			"ItemName": "EOD Vest",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52027,
+			"ItemName": "EODRadio",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52028,
+			"ItemName": "Ares Rockets",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52029,
+			"ItemName": "goober",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52030,
+			"ItemName": "Grubby Spread",
+			"Selling": 10000.00,
+			"Buying": 500.00
+		},
+		{
+			"Id": 52032,
+			"ItemName": "Military Short Gun Crate",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52033,
+			"ItemName": "Military Long Gun Crate",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52034,
+			"ItemName": "Military Armory Crate",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52036,
+			"ItemName": "Springer Shells",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52037,
+			"ItemName": "Singer",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52038,
+			"ItemName": "Knockout Outfit",
+			"Selling": 10000.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52039,
+			"ItemName": "Knockout Helmet",
+			"Selling": 10000.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52040,
+			"ItemName": "Knockout Fannypack",
+			"Selling": 10000.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52042,
+			"ItemName": "Survivor Top",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52043,
+			"ItemName": "Survivor Top",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52044,
+			"ItemName": "Survivor Top",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52045,
+			"ItemName": "Survivor Bottom",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52046,
+			"ItemName": "Survivor Bottom",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52047,
+			"ItemName": "Survivor Bottom",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52049,
+			"ItemName": "Box Of Circuitboards",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52050,
+			"ItemName": "Box Of Springs",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52051,
+			"ItemName": "Box Of Manual Gun Parts",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52052,
+			"ItemName": "Box Of Semi Automatic Gun Parts",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52053,
+			"ItemName": "Box Of Automatic Gun Parts",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52054,
+			"ItemName": "Militia Top",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52055,
+			"ItemName": "Militia Top",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52057,
+			"ItemName": "Anti-Material Magazine",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52058,
+			"ItemName": "6x Scope",
+			"Selling": 150.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 52061,
+			"ItemName": "CSO-85-BLK",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52062,
+			"ItemName": "CSO-85-BLK-SP",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52063,
+			"ItemName": "Centare \"Wild Cherry\"",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52064,
+			"ItemName": "Centare-SP \"Wild Cherry\"",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52065,
+			"ItemName": "Private \"Greenback\"",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52066,
+			"ItemName": "Private-SP \"Greenback\"",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52068,
+			"ItemName": "Raumfahrer Ulfberht",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52069,
+			"ItemName": "Raumfahrer Ulfberht-SP",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52070,
+			"ItemName": "Silver Asset",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52071,
+			"ItemName": "Silver Asset-SP",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52072,
+			"ItemName": "Iridium Tanto",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52073,
+			"ItemName": "Iridium Tanto-SP",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52074,
+			"ItemName": "Thallium Sundoor",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52075,
+			"ItemName": "Thallium Sundoor-SP",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52076,
+			"ItemName": "Palladium Tonijn",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52077,
+			"ItemName": "Palladium Tonijn-SP",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52078,
+			"ItemName": "Hera-Ariane",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52080,
+			"ItemName": "Horse",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52085,
+			"ItemName": "20x Precision Rounds",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52086,
+			"ItemName": "75x Precision Rounds",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52087,
+			"ItemName": "200x Precision Rounds",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52088,
+			"ItemName": "Marksman Magazine",
+			"Selling": 250.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 52089,
+			"ItemName": "Rifle Clip",
+			"Selling": 70.00,
+			"Buying": 35.00
+		},
+		{
+			"Id": 52090,
+			"ItemName": "Double Hook",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52091,
+			"ItemName": "Treasure Magnet",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52092,
+			"ItemName": "Lucky Clover",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52093,
+			"ItemName": "SAMR Clothes",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52094,
+			"ItemName": "SAMR Mask",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52095,
+			"ItemName": "Consolidator",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52098,
+			"ItemName": "May",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52100,
+			"ItemName": "The Individual",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52101,
+			"ItemName": "Portrait #0",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52102,
+			"ItemName": "Portrait #1",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52103,
+			"ItemName": "Portrait #2",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52104,
+			"ItemName": "Portrait #3",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52105,
+			"ItemName": "Portrait #4",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52106,
+			"ItemName": "Portrait #5",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52107,
+			"ItemName": "Portrait #6",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52108,
+			"ItemName": "Beach Day #0",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52109,
+			"ItemName": "Beach Day #1",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52110,
+			"ItemName": "Beach Day #2",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52111,
+			"ItemName": "Beach Day #3",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52112,
+			"ItemName": "Beach Day #4",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52113,
+			"ItemName": "Beach Day #5",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52114,
+			"ItemName": "Beach Day #6",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52115,
+			"ItemName": "Cat #0",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52116,
+			"ItemName": "Cat #1",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52117,
+			"ItemName": "Cat #2",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52118,
+			"ItemName": "Lunar Carpet (Black)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52119,
+			"ItemName": "Lunar Carpet (White)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52120,
+			"ItemName": "Persian Carpet (White)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52121,
+			"ItemName": "Persian Carpet (Grey)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52122,
+			"ItemName": "Persian Carpet (Blue)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52123,
+			"ItemName": "Square Carpet (Blue)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52124,
+			"ItemName": "Square Carpet (Grey)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52125,
+			"ItemName": "Square Carpet (Red)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52126,
+			"ItemName": "Porcelain Carpet (White)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52127,
+			"ItemName": "Porcelain Carpet (Black)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52128,
+			"ItemName": "Wooden Chair",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52129,
+			"ItemName": "Plastic Chair (White)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52130,
+			"ItemName": "Plastic Chair (Red)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52131,
+			"ItemName": "Plastic Chair (Orange)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52132,
+			"ItemName": "Plastic Chair (Green)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52133,
+			"ItemName": "Plastic Chair (Blue)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52134,
+			"ItemName": "Painting - Arid",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52135,
+			"ItemName": "Painting - Buak",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52136,
+			"ItemName": "Painting - Courtroom",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52137,
+			"ItemName": "Painting - Hawaii",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52138,
+			"ItemName": "Painting - Alpha Valley",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52139,
+			"ItemName": "Painting - Dango",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52140,
+			"ItemName": "Painting - Elver",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52141,
+			"ItemName": "Painting - Kuwait",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52142,
+			"ItemName": "Painting - PEI",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52143,
+			"ItemName": "Painting - Relax",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52144,
+			"ItemName": "Desert",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52145,
+			"ItemName": "Field",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52146,
+			"ItemName": "Tired #1",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52147,
+			"ItemName": "Tired #2",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52148,
+			"ItemName": "Dog #1",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52150,
+			"ItemName": "Wooden Counter",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 52151,
+			"ItemName": "Metal Counter",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52152,
+			"ItemName": "Wooden Wardrobe",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 52153,
+			"ItemName": "Metal Wardrobe",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52154,
+			"ItemName": "Wooden Flag",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 52155,
+			"ItemName": "Metal Flag",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52156,
+			"ItemName": "Wooden Trophy Case",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 52157,
+			"ItemName": "Metal Trophy Case",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52158,
+			"ItemName": "Wooden Plaque",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 52159,
+			"ItemName": "Metal Plaque",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52160,
+			"ItemName": "Wooden Sign",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 52161,
+			"ItemName": "Metal Sign",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52162,
+			"ItemName": "Wooden Placard",
+			"Selling": 200.00,
+			"Buying": 100.00
+		},
+		{
+			"Id": 52163,
+			"ItemName": "Metal Placard",
+			"Selling": 500.00,
+			"Buying": 50.00
+		},
+		{
+			"Id": 52164,
+			"ItemName": "Wooden Circular Table",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52165,
+			"ItemName": "Wooden Rectangular Table",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52166,
+			"ItemName": "Wooden Square Table",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52167,
+			"ItemName": "Metal Circular Table",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52168,
+			"ItemName": "Metal Rectangular Table",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52169,
+			"ItemName": "Metal Square Table",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52170,
+			"ItemName": "Poster - Camote",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52171,
+			"ItemName": "Poster - Currents",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52172,
+			"ItemName": "Poster - DSOTM",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52173,
+			"ItemName": "Poster - Gleep",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52174,
+			"ItemName": "Poster - The Imp",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52175,
+			"ItemName": "Poster - LDG",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52176,
+			"ItemName": "Poster - Nylex",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52177,
+			"ItemName": "Poster - The Samurai",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52178,
+			"ItemName": "Poster - The Shogun",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52179,
+			"ItemName": "Poster - Shape",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52180,
+			"ItemName": "Poster - His",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52181,
+			"ItemName": "Poster - On Chromatics",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52182,
+			"ItemName": "Poster - Grubs See Loot",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52183,
+			"ItemName": "Poster - Maps",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52185,
+			"ItemName": "Painting - Freedom",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52186,
+			"ItemName": "Painting - Diamond Dog",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52187,
+			"ItemName": "Painting - Grubby Raids",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52188,
+			"ItemName": "Painting - Apple",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52189,
+			"ItemName": "Painting - Grenade",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52190,
+			"ItemName": "Painting - Explosion",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52191,
+			"ItemName": "Painting - DARN.",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52192,
+			"ItemName": "Painting - Delusion",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52193,
+			"ItemName": "Painting - Blue Night",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52194,
+			"ItemName": "Painting - Grubby Spread",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52195,
+			"ItemName": "Painting - Bullet Shots",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52196,
+			"ItemName": "Painting - Self Love",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52197,
+			"ItemName": "Painting - Moonlight",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52199,
+			"ItemName": "Painting - Snowtrain",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52233,
+			"ItemName": "DRR-20",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52235,
+			"ItemName": "RAC-48",
+			"Selling": 700.00,
+			"Buying": 350.00
+		},
+		{
+			"Id": 52237,
+			"ItemName": "Empay",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52239,
+			"ItemName": "Esdee",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52240,
+			"ItemName": "Ashley",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52242,
+			"ItemName": "Walker Monitoring Conversion Kit",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52244,
+			"ItemName": "Duzey-SP",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52245,
+			"ItemName": "Duzey",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52246,
+			"ItemName": "Throwing Axe",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52247,
+			"ItemName": "Mare",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52248,
+			"ItemName": "Showdown Beans",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52250,
+			"ItemName": "Midnight Main Sentry",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52251,
+			"ItemName": "Midnight Mini Sentry",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52252,
+			"ItemName": "Sentry Main Gun",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52253,
+			"ItemName": "Sentry Mini Gun",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52255,
+			"ItemName": "Lumberjack Maul",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52256,
+			"ItemName": "Painting - Golden Apple",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52257,
+			"ItemName": "Painting - Frog",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52258,
+			"ItemName": "Poster - Trident Games",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52259,
+			"ItemName": "Poster - USA",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52260,
+			"ItemName": "Inferno Axe",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52261,
+			"ItemName": "Halligan Bar",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52262,
+			"ItemName": "The Irons",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52263,
+			"ItemName": "12 Gauge Explosive Slugs",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52264,
+			"ItemName": "12 Gauge Dragon's Breath",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52265,
+			"ItemName": "Overpressured Revolver Speedloader",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52266,
+			"ItemName": "Snakeshot Revolver Speedloader",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52267,
+			"ItemName": "Mark 1 Bayonet",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52268,
+			"ItemName": "Weebley Bayonet",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52269,
+			"ItemName": "Collimator Sight",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52270,
+			"ItemName": "Weebley Stock",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52271,
+			"ItemName": "Noses-12 Hunter Kit",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52272,
+			"ItemName": "Cavalry Dragoon Kit",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52273,
+			"ItemName": "Noses-12 Handling Set",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52274,
+			"ItemName": "Crown Tritium Sights",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52284,
+			"ItemName": "Dual Intragats",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52286,
+			"ItemName": "Intragat",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52287,
+			"ItemName": "Intragat-SP",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52288,
+			"ItemName": "Dual Intragat-SPs",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52290,
+			"ItemName": "Plushie - Dweller",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52291,
+			"ItemName": "Plushie - Clown",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52292,
+			"ItemName": "Plushie - Armorer",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52294,
+			"ItemName": "Falcon .50-SP",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52295,
+			"ItemName": "Golden Falcon-SP",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52296,
+			"ItemName": "Dual Falcon .50-SPs",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52297,
+			"ItemName": "Dual Golden Falcon-SPs",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52300,
+			"ItemName": "Frostbite",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52301,
+			"ItemName": "8x Scope",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52302,
+			"ItemName": "Frostbite-Aozora",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52303,
+			"ItemName": "8x Scope",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52304,
+			"ItemName": "Frostbite-SP",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52305,
+			"ItemName": "Frostbite-Aozora-SP",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52308,
+			"ItemName": "Midnight Crate Storage",
+			"Selling": 20000.00,
+			"Buying": 5000.00
+		},
+		{
+			"Id": 52309,
+			"ItemName": "Midnight Crate",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52310,
+			"ItemName": "Overdrive Fuse",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52311,
+			"ItemName": "Armored Door",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52313,
+			"ItemName": "Trident",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52314,
+			"ItemName": "Fragmentation Rocket",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52315,
+			"ItemName": "Explosive Rocket",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52316,
+			"ItemName": "Tandem Rocket",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52318,
+			"ItemName": "Red Suit Top",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52319,
+			"ItemName": "Red Suit Bottom",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52320,
+			"ItemName": "Black Suit Top",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52321,
+			"ItemName": "Black Suit Bottom",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52322,
+			"ItemName": "Tan Suit Top",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52323,
+			"ItemName": "Tan Suit Bottom",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52324,
+			"ItemName": "White Suit Top",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52325,
+			"ItemName": "White Suit Bottom",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52326,
+			"ItemName": "Blue Suit Top",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52327,
+			"ItemName": "Blue Suit Bottom",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52328,
+			"ItemName": "EOD Top",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52329,
+			"ItemName": "EOD Bottom",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52330,
+			"ItemName": "Flight Top",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52331,
+			"ItemName": "Flight Bottom",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52332,
+			"ItemName": "Flight Helmet",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52334,
+			"ItemName": "Poster - P9",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52335,
+			"ItemName": "Painting - Bird",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52336,
+			"ItemName": "Headlamp",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52338,
+			"ItemName": "Painting - Escalation",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52339,
+			"ItemName": "Painting - Plunger",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52340,
+			"ItemName": "Painting - Liveopen",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52341,
+			"ItemName": "Robot #0",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52342,
+			"ItemName": "Robot #1",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52343,
+			"ItemName": "Robot #2",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52344,
+			"ItemName": "Robot #3",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52345,
+			"ItemName": "Robot #4",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52346,
+			"ItemName": "Robot #5",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52347,
+			"ItemName": "Robot #6",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52348,
+			"ItemName": "Painting - Pear",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52354,
+			"ItemName": "Trench-12",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52356,
+			"ItemName": "12 Gauge Birdshot",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52357,
+			"ItemName": "12 Gauge Slugs",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52358,
+			"ItemName": "12 Gauge Flechette",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52359,
+			"ItemName": "Disruptor Slugs",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52360,
+			"ItemName": "HALUC Slug",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52361,
+			"ItemName": "HEAT Slug",
+			"Selling": 0.00,
+			"Buying": 0.00
+		}
+	]
+}
