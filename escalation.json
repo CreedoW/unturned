@@ -6001,6 +6001,804 @@
 			"ItemName": "HEAT Slug",
 			"Selling": 0.00,
 			"Buying": 0.00
+		},
+		{
+			"Id": 52362,
+			"ItemName": "SPRG Slug",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52363,
+			"ItemName": "Classic Bluntforce-12",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52364,
+			"ItemName": "Classic Bluntforce-12-SP",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52366,
+			"ItemName": "Plushie - Baby",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52367,
+			"ItemName": "Plushie - Arid Guy",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52368,
+			"ItemName": "Plushie - Flubbagooba",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52369,
+			"ItemName": "Plushie - Snow",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52370,
+			"ItemName": "Plushie - Workshopper",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52371,
+			"ItemName": "Weston",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52372,
+			"ItemName": "12 Gauge Holiday Spirit",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52373,
+			"ItemName": "SAMR",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52375,
+			"ItemName": "Arctic Combat Top",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52376,
+			"ItemName": "Arctic Combat Bottom",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52377,
+			"ItemName": "Arctic Military Plate Carrier",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52378,
+			"ItemName": "Arctic Military Helmet",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52379,
+			"ItemName": "Arctic Rucksack",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52380,
+			"ItemName": "Arctic Alice Pack",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52381,
+			"ItemName": "Arctic Anvil Helmet",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52382,
+			"ItemName": "Arctic Anvil Mask",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52383,
+			"ItemName": "Arctic Anvil Vest",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52384,
+			"ItemName": "Arctic Militia Top",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52385,
+			"ItemName": "White Balaclava",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52387,
+			"ItemName": "LMG Incendiary Drum",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52388,
+			"ItemName": "Explosive Marksman Magazine",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52389,
+			"ItemName": "Festive Assault Rifle Magazine",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52390,
+			"ItemName": "Festive SMG Magazine",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52391,
+			"ItemName": "Hades",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52392,
+			"ItemName": "Váli PRW-1",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52393,
+			"ItemName": "Völundr PWR-1",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52394,
+			"ItemName": "Queen's Weebley",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52398,
+			"ItemName": "PBS Holiday Airdrop",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52399,
+			"ItemName": "PBS Holiday Airdrop",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52400,
+			"ItemName": "Monarchist",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52420,
+			"ItemName": "Plastic Shelter (White)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52421,
+			"ItemName": "Plastic Shelter (Red)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52422,
+			"ItemName": "Plastic Shelter (Orange)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52423,
+			"ItemName": "Plastic Shelter (Green)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52424,
+			"ItemName": "Plastic Shelter (Blue)",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52426,
+			"ItemName": "Armored Hatch",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52427,
+			"ItemName": "Vault Gate",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52428,
+			"ItemName": "Armored Gate",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52429,
+			"ItemName": "Hestia",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52430,
+			"ItemName": "Liberator",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52431,
+			"ItemName": "Liberator-SP",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52432,
+			"ItemName": "Tukavtomat OZT",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52433,
+			"ItemName": "Tukavtomat-SP-OZT",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52434,
+			"ItemName": "Ribeye",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52435,
+			"ItemName": "Frommer",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52436,
+			"ItemName": "Stopper",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52439,
+			"ItemName": "Bauarbeiter Empey",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52440,
+			"ItemName": "Bauarbeiter Empey-SP",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52441,
+			"ItemName": "Strelok Intragat",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52442,
+			"ItemName": "Strelok Intragat-SP",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52443,
+			"ItemName": "Dual Strelok Intragats",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52444,
+			"ItemName": "Dual Strelok Intragat-SPs",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52445,
+			"ItemName": "Sängerin Kompact ",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52446,
+			"ItemName": "Sängerin Kompact-SP",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52447,
+			"ItemName": "Sängerin Kompact Iron Sights",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52448,
+			"ItemName": "Blumengeschäft Nacht",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52449,
+			"ItemName": "Blumengeschäft Nacht-SP",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52450,
+			"ItemName": "Gryaz Bisey",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52451,
+			"ItemName": "Gryaz Bisey-SP",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52452,
+			"ItemName": "Lavelle",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52453,
+			"ItemName": "Greenwich",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52454,
+			"ItemName": "Griffin",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52455,
+			"ItemName": "Listener",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52460,
+			"ItemName": "Deadzone Gun Crate",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52461,
+			"ItemName": "Deadzone Gun Crate Storage",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52462,
+			"ItemName": "Spring Rocket",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52463,
+			"ItemName": "Hades FCS",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52464,
+			"ItemName": "Listener Concussive Magazine",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52465,
+			"ItemName": "Canister Shell",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52466,
+			"ItemName": "Trainer Shell",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52467,
+			"ItemName": "Spring Shell",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52468,
+			"ItemName": "Rocket Cannon",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52469,
+			"ItemName": "Plane MG",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52470,
+			"ItemName": "DEATH Anti-Material Magazine",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52471,
+			"ItemName": "FROST Anti-Material Magazine",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52473,
+			"ItemName": "Plane Railgun",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52474,
+			"ItemName": "Plane SMG",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52476,
+			"ItemName": "Technical Gun",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52479,
+			"ItemName": "Arms",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52480,
+			"ItemName": "Nitrate",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52481,
+			"ItemName": "Express Rounds",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52482,
+			"ItemName": "Zoomed Sight",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52484,
+			"ItemName": "Plush Shark",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52485,
+			"ItemName": "Plush Bear",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52486,
+			"ItemName": "Pluto",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52487,
+			"ItemName": "Hades FCS-B",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52489,
+			"ItemName": "Recker",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52491,
+			"ItemName": "Firestorm",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52493,
+			"ItemName": "Anvil Balaclava",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52507,
+			"ItemName": "LST .45",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52508,
+			"ItemName": "AMT Laser",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52509,
+			"ItemName": "SASR 22-80",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52510,
+			"ItemName": "Ulfbert Light",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52514,
+			"ItemName": "Tombstone",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52520,
+			"ItemName": "Military Cap",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52521,
+			"ItemName": "Red's Military Shirt",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52522,
+			"ItemName": "Round Glasses",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52523,
+			"ItemName": "Tracksuit Bottoms",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52525,
+			"ItemName": "Zolash",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52526,
+			"ItemName": "CW Keyer",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52527,
+			"ItemName": "Rubber Ducky",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52540,
+			"ItemName": "Rune Of Fight",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52560,
+			"ItemName": "Dual Weebleys",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52561,
+			"ItemName": "Dual Queen's Weebleys",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52562,
+			"ItemName": "Dual Cobalts",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52563,
+			"ItemName": "Dual Reckers",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52564,
+			"ItemName": "Dual Westons",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52566,
+			"ItemName": "Dual Revolver Clips",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52567,
+			"ItemName": "Dual Overpressured Revolver Clips",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52568,
+			"ItemName": "Dual Snakeshot Revolver Clips",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 52569,
+			"ItemName": "Dual Hollow Point Pistol Magazine",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 55001,
+			"ItemName": "Pile of Logs",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 55002,
+			"ItemName": "Pile of Metal Ingots",
+			"Selling": 4500.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 55003,
+			"ItemName": "Pile of Fabric",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 55004,
+			"ItemName": "Stack Of Duct Tape",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 55005,
+			"ItemName": "Stack Of Glue",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 55006,
+			"ItemName": "Stack Of Chemicals",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 55007,
+			"ItemName": "Box Of Adhesive Compound",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 55008,
+			"ItemName": "Box Of Refined Oil",
+			"Selling": 1200.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 55009,
+			"ItemName": "Stack Of High Tech Fuse",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 55010,
+			"ItemName": "Box Of Nitroglycerin",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 55011,
+			"ItemName": "Pile of Filament",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 55012,
+			"ItemName": "Box Of Dressings",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 55013,
+			"ItemName": "Box Of Medpacks",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 55014,
+			"ItemName": "Box Of Blood Bags",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 55015,
+			"ItemName": "Box Of Stims",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 55016,
+			"ItemName": "Stack Of Canteen",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 55101,
+			"ItemName": "1000 Grubby",
+			"Selling": 5000.00,
+			"Buying": 1000.00
+		},
+		{
+			"Id": 55102,
+			"ItemName": "2500 Grubby",
+			"Selling": 12500.00,
+			"Buying": 2500.00
+		},
+		{
+			"Id": 55103,
+			"ItemName": "25000 Grubby Spread",
+			"Selling": 75000.00,
+			"Buying": 25000.00
 		}
 	]
 }
