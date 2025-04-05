@@ -1,0 +1,225 @@
+
+[
+		{
+			"Id": 140,
+			"VehicleName": "Fighter Jet",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51000,
+			"VehicleName": "HTV 150MM",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51002,
+			"VehicleName": "Forklift",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51003,
+			"VehicleName": "LTV",
+			"Selling": 20000.00,
+			"Buying": 10000.00
+		},
+		{
+			"Id": 51005,
+			"VehicleName": "Lawn Mower",
+			"Selling": 7500.00,
+			"Buying": 3750.00
+		},
+		{
+			"Id": 51006,
+			"VehicleName": "Red Sedan",
+			"Selling": 15000.00,
+			"Buying": 7500.00
+		},
+		{
+			"Id": 51007,
+			"VehicleName": "Police Sedan",
+			"Selling": 15000.00,
+			"Buying": 7500.00
+		},
+		{
+			"Id": 51008,
+			"VehicleName": "Red Pickup Truck",
+			"Selling": 15000.00,
+			"Buying": 7500.00
+		},
+		{
+			"Id": 51009,
+			"VehicleName": "Police Truck",
+			"Selling": 15000.00,
+			"Buying": 7500.00
+		},
+		{
+			"Id": 51010,
+			"VehicleName": "Blue Muscle Car",
+			"Selling": 15000.00,
+			"Buying": 7500.00
+		},
+		{
+			"Id": 51011,
+			"VehicleName": "SUV",
+			"Selling": 15000.00,
+			"Buying": 7500.00
+		},
+		{
+			"Id": 51012,
+			"VehicleName": "Military Jeep",
+			"Selling": 15000.00,
+			"Buying": 7500.00
+		},
+		{
+			"Id": 51013,
+			"VehicleName": "Buzzkill",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51014,
+			"VehicleName": "G-Yacht",
+			"Selling": 20000.00,
+			"Buying": 10000.00
+		},
+		{
+			"Id": 51015,
+			"VehicleName": "Blue Sedan",
+			"Selling": 15000.00,
+			"Buying": 7500.00
+		},
+		{
+			"Id": 51016,
+			"VehicleName": "Green Sedan",
+			"Selling": 15000.00,
+			"Buying": 7500.00
+		},
+		{
+			"Id": 51017,
+			"VehicleName": "White Sedan",
+			"Selling": 15000.00,
+			"Buying": 7500.00
+		},
+		{
+			"Id": 51018,
+			"VehicleName": "Black Sedan",
+			"Selling": 15000.00,
+			"Buying": 7500.00
+		},
+		{
+			"Id": 51019,
+			"VehicleName": "Blue Pickup Truck",
+			"Selling": 15000.00,
+			"Buying": 7500.00
+		},
+		{
+			"Id": 51020,
+			"VehicleName": "Green Pickup Truck",
+			"Selling": 15000.00,
+			"Buying": 7500.00
+		},
+		{
+			"Id": 51021,
+			"VehicleName": "White Pickup Truck",
+			"Selling": 15000.00,
+			"Buying": 7500.00
+		},
+		{
+			"Id": 51022,
+			"VehicleName": "Black Pickup Truck",
+			"Selling": 15000.00,
+			"Buying": 7500.00
+		},
+		{
+			"Id": 51023,
+			"VehicleName": "Red Van",
+			"Selling": 15000.00,
+			"Buying": 7500.00
+		},
+		{
+			"Id": 51024,
+			"VehicleName": "Blue Van",
+			"Selling": 15000.00,
+			"Buying": 7500.00
+		},
+		{
+			"Id": 51025,
+			"VehicleName": "Green Van",
+			"Selling": 15000.00,
+			"Buying": 7500.00
+		},
+		{
+			"Id": 51026,
+			"VehicleName": "White Van",
+			"Selling": 15000.00,
+			"Buying": 7500.00
+		},
+		{
+			"Id": 51027,
+			"VehicleName": "Black Van",
+			"Selling": 15000.00,
+			"Buying": 7500.00
+		},
+		{
+			"Id": 51028,
+			"VehicleName": "Black Muscle Car",
+			"Selling": 15000.00,
+			"Buying": 7500.00
+		},
+		{
+			"Id": 51029,
+			"VehicleName": "Orange Muscle Car",
+			"Selling": 15000.00,
+			"Buying": 7500.00
+		},
+		{
+			"Id": 51030,
+			"VehicleName": "Orange Muscle Car",
+			"Selling": 15000.00,
+			"Buying": 7500.00
+		},
+		{
+			"Id": 51031,
+			"VehicleName": "Gotha",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51032,
+			"VehicleName": "AH-46 Kings Hand",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51033,
+			"VehicleName": "Falker",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51034,
+			"VehicleName": "Drachen",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51035,
+			"VehicleName": "Storch",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51036,
+			"VehicleName": "Adler",
+			"Selling": 0.00,
+			"Buying": 0.00
+		},
+		{
+			"Id": 51037,
+			"VehicleName": "Imperator",
+			"Selling": 50000.00,
+			"Buying": 10000.00
+		}
+	]
